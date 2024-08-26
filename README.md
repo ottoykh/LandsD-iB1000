@@ -10,7 +10,7 @@ The following is a simple process to decompse and extraction features from iB100
 ```python 
  !wget "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB1000&sheetName=Fullset_Seamless&productFormat=FGDB" -O Fullset_Seamless_FGDB.zip
 ```
-- Decompose the geoadtabase from zip file
+- Decompose the geodatabase from zip file
 
 ```python 
  !unzip -o Fullset_Seamless_FGDB.zip
