@@ -3,7 +3,7 @@
 
 This code/ program is to decompose the LandsD iB1000 with code-less end-product.
 
-The following is a simple process to decompse and extraction features from iB1000,  user need to download the fullset seamless geodatabase from the LandsD hkmapservice then unzip the geoadtabase. 
+The following is a simple process to decompse and extraction features from iB1000,  user need to download the fullset seamless geodatabase from the LandsD hkmapservice then unzip it. 
 ## Demo
 - Download the Fullset Seamless geodatabase from LandsD
 
