@@ -5,7 +5,7 @@ This code/ program is to decompose the LandsD iB1000 with code-less end-product.
 
 The following is a simple process to decompse and extraction features from iB1000,  user need to download the fullset seamless geodatabase from the LandsD hkmapservice then unzip the geoadtabase. 
 ## Demo
-- Download the Fullset Seamless geoadtabase from LandsD
+- Download the Fullset Seamless geodatabase from LandsD
 
 ```python 
  !wget "https://open.hkmapservice.gov.hk/OpenData/directDownload?productName=iB1000&sheetName=Fullset_Seamless&productFormat=FGDB" -O Fullset_Seamless_FGDB.zip
